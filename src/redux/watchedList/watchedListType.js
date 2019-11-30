@@ -1,0 +1,1 @@
+export const ADD_WATCHED_MOVIE = "ADD_WATCHED_MOVIE";
