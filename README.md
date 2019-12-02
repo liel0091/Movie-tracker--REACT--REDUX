@@ -1,21 +1,4 @@
 
-## JS/React app cleanup
-
-Jenny is a newbie developer that has decided to learn Javascript and React. She wrote this simple application to keep track of which movies she wants to see, and which ones she has seen.
-
-She knows it is not great, and she has now asked you to take a look at it. Give Jenny some technical feedback and visual improvements.
-
-### Your task:
-
-1. **Create a new branch**
-2. **Add one commit with in-code comments, pointing out any bad patterns or strange choices made.**
-3. **Add any number of commits to make the code more maintainable and improve the UI as much as you want while maintaining the existing functionality of the application.**
-4. **Open a pull request**
-
-Do not spend more than a few hours on this assignment. Keep it simple!
-
----
-
 ###Used scripts 
 npm install react-redux
 npm install redux
